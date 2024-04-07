@@ -4,9 +4,9 @@ This project demonstrates how to encrypt and decrypt images using the Advanced E
 
 ## Features
 
-- Encrypt an image file using AES algorithm
-- Decrypt an encrypted image file using AES algorithm
-- Support for various image formats
+- Encrypts an image file using AES algorithm
+- Decrypts an encrypted image file using AES algorithm
+- Supports various image formats
 
 ## Working
 
